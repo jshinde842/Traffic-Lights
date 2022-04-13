@@ -1,0 +1,237 @@
+t   t   t   t   t    e    e    w    w    n
+e   e   w   w   n    s    l    s    l    s
+s   l   s   l                             
+                    esg       wsg                            3000
+                                                            13000
+                                                            23000
+    el                                                      33000
+    el              esg  elg                                43000
+    el              esg  elg                                53000
+    el      wl      esg  elg                                63000
+    el      wl      esg  elg                                73000
+    el      wl      esg  elg                                83000
+    el      wl      esg  elg                                93000
+    el      wl      esg  elg                               103000
+    el      wl      esg  elg                               113000
+            wl      esg  elg                               123000
+            wl      esg  elg                               133000
+es          wl      esg  elg                               143000
+es          wl      esg  elg                               153000
+es          wl      esy  ely                               163000
+es      ws  wl      esy  ely                               173000
+es      ws  wl                                             183000
+es      ws  wl                wsg  wlg                     193000
+es      ws  wl                wsg  wlg                     203000
+es      ws  wl                wsg  wlg                     213000
+es      ws  wl                wsg  wlg                     223000
+es      ws  wl                wsg  wlg                     233000
+es      ws  wl                wsg  wlg                     243000
+es      ws  wl                wsg  wlg                     253000
+es      ws  wl                wsg  wlg                     263000
+        ws  wl                wsg  wlg                     273000
+            wl                wsg  wlg                     283000
+            wl                wsy  wly                     293000
+            wl                wsy  wly                     303000
+            wl                                             313000
+            wl           elg       wlg                     323000
+            wl           elg       wlg                     333000
+            wl           elg       wlg                     343000
+            wl           elg       wlg                     353000
+            wl           elg       wlg                     363000
+            wl           elg       wlg                     373000
+            wl           elg       wlg                     383000
+            wl           elg       wlg                     393000
+            wl           elg       wlg                     403000
+            wl           elg       wlg                     413000
+            wl           elg       wlg                     423000
+            wl           elg       wlg                     433000
+            wl           elg       wlg                     443000
+            wl           elg       wlg                     453000
+            wl           elg       wlg                     463000
+            wl           elg       wlg                     473000
+            wl  ns       elg       wlg                     483000
+            wl  ns       elg       wlg                     493000
+            wl  ns       elg       wlg                     503000
+            wl  ns       elg       wlg                     513000
+            wl  ns       elg       wlg                     523000
+            wl  ns       elg       wlg                     533000
+            wl           elg       wlg                     543000
+            wl           elg       wlg                     553000
+            wl           elg       wlg                     563000
+            wl           elg       wlg                     573000
+            wl           ely       wly                     583000
+            wl           ely       wly                     593000
+            wl                                             603000
+            wl                wsg  wlg                     613000
+            wl                wsg  wlg                     623000
+            wl                wsg  wlg                     633000
+            wl                wsg  wlg                     643000
+            wl                wsg  wlg                     653000
+            wl                wsg  wlg                     663000
+            wl                wsg  wlg                     673000
+            wl                wsg  wlg                     683000
+            wl                wsg  wlg                     693000
+            wl                wsg  wlg                     703000
+            wl                wsg  wlg                     713000
+            wl                wsg  wlg                     723000
+            wl                wsg  wlg                     733000
+            wl  ns            wsg  wlg                     743000
+            wl  ns            wsg  wlg                     753000
+            wl  ns            wsg  wlg                     763000
+            wl  ns            wsg  wlg                     773000
+            wl  ns            wsg  wlg                     783000
+            wl  ns            wsg  wlg                     793000
+            wl  ns            wsg  wlg                     803000
+            wl  ns            wsg  wlg                     813000
+            wl  ns            wsg  wlg                     823000
+            wl  ns            wsg  wlg                     833000
+    el      wl  ns            wsy  wly                     843000
+    el      wl  ns            wsy  wly                     853000
+    el      wl  ns                                         863000
+    el      wl  ns       elg       wlg                     873000
+    el      wl  ns       elg       wlg                     883000
+    el      wl  ns       elg       wlg                     893000
+    el      wl  ns       elg       wlg                     903000
+    el      wl  ns       elg       wlg                     913000
+    el      wl  ns       elg       wlg                     923000
+    el      wl  ns       elg       wlg                     933000
+    el      wl  ns       elg       wlg                     943000
+    el      wl  ns       elg       wlg                     953000
+    el      wl  ns       elg       wlg                     963000
+    el      wl  ns       ely       wly                     973000
+    el      wl  ns       ely       wly                     983000
+    el      wl  ns                                         993000
+    el      wl  ns                      nsg               1003000
+    el      wl  ns                      nsg               1013000
+    el      wl  ns                      nsg               1023000
+    el      wl  ns                      nsg               1033000
+    el      wl                          nsg               1043000
+    el      wl                          nsg               1053000
+es  el  ws  wl  ns                      nsg               1063000
+es  el  ws  wl  ns                      nsg               1073000
+es  el  ws  wl  ns                      nsg               1083000
+es  el  ws  wl  ns                      nsy               1093000
+es  el  ws  wl  ns                      nsy               1103000
+es  el  ws  wl  ns                                        1113000
+es  el  ws  wl  ns  esg       wsg                         1123000
+es  el  ws  wl  ns  esg       wsg                         1133000
+es  el  ws  wl  ns  esg       wsg                         1143000
+es  el  ws  wl  ns  esg       wsg                         1153000
+es  el  ws  wl  ns  esg       wsg                         1163000
+es  el  ws  wl  ns  esg       wsg                         1173000
+es  el  ws  wl  ns  esg       wsg                         1183000
+es  el  ws  wl  ns  esg       wsg                         1193000
+es  el  ws  wl  ns  esg       wsg                         1203000
+es  el  ws  wl  ns  esg       wsg                         1213000
+es  el  ws  wl  ns  esy       wsy                         1223000
+es  el  ws  wl  ns  esy       wsy                         1233000
+es  el  ws  wl  ns                                        1243000
+es  el  ws  wl  ns  esg  elg                              1253000
+es  el  ws  wl  ns  esg  elg                              1263000
+es  el  ws  wl  ns  esg  elg                              1273000
+es  el  ws  wl  ns  esg  elg                              1283000
+es  el  ws  wl  ns  esg  elg                              1293000
+es  el  ws  wl  ns  esg  elg                              1303000
+es  el  ws  wl  ns  esg  elg                              1313000
+es  el  ws  wl  ns  esg  elg                              1323000
+es  el  ws  wl  ns  esg  elg                              1333000
+es  el  ws  wl  ns  esg  elg                              1343000
+es  el  ws  wl  ns  esy  ely                              1353000
+es  el  ws  wl  ns  esy  ely                              1363000
+es  el  ws  wl  ns                                        1373000
+es  el  ws  wl  ns            wsg  wlg                    1383000
+es  el  ws  wl  ns            wsg  wlg                    1393000
+es  el  ws  wl  ns            wsg  wlg                    1403000
+es  el  ws  wl  ns            wsg  wlg                    1413000
+es  el  ws  wl  ns            wsg  wlg                    1423000
+es  el  ws  wl  ns            wsg  wlg                    1433000
+es  el  ws  wl  ns            wsg  wlg                    1443000
+es  el  ws  wl  ns            wsg  wlg                    1453000
+es  el  ws  wl  ns            wsg  wlg                    1463000
+es  el  ws  wl  ns            wsg  wlg                    1473000
+es  el  ws  wl  ns            wsy  wly                    1483000
+es  el  ws  wl  ns            wsy  wly                    1493000
+es  el  ws  wl  ns                                        1503000
+es  el  ws  wl  ns       elg       wlg                    1513000
+es  el  ws  wl  ns       elg       wlg                    1523000
+es  el  ws  wl  ns       elg       wlg                    1533000
+es  el  ws  wl  ns       elg       wlg                    1543000
+es  el  ws  wl  ns       elg       wlg                    1553000
+es  el  ws  wl  ns       elg       wlg                    1563000
+es  el  ws  wl  ns       elg       wlg                    1573000
+es  el  ws  wl  ns       elg       wlg                    1583000
+es  el  ws  wl  ns       elg       wlg                    1593000
+es  el  ws  wl  ns       elg       wlg                    1603000
+es  el  ws  wl  ns       ely       wly                    1613000
+es  el  ws  wl  ns       ely       wly                    1623000
+es  el  ws  wl  ns                                        1633000
+es  el  ws  wl  ns                      nsg               1643000
+es  el  ws  wl  ns                      nsg               1653000
+es  el  ws  wl  ns                      nsg               1663000
+es  el  ws  wl  ns                      nsg               1673000
+es  el  ws  wl  ns                      nsg               1683000
+es  el  ws  wl  ns                      nsg               1693000
+es  el  ws  wl  ns                      nsg               1703000
+es  el  ws  wl  ns                      nsg               1713000
+es  el  ws  wl  ns                      nsg               1723000
+es  el  ws  wl  ns                      nsg               1733000
+es  el  ws  wl  ns                      nsy               1743000
+es  el  ws  wl  ns                      nsy               1753000
+es  el  ws  wl  ns                                        1763000
+es  el  ws  wl  ns  esg       wsg                         1773000
+es  el  ws  wl  ns  esg       wsg                         1783000
+es  el  ws  wl  ns  esg       wsg                         1793000
+es  el  ws  wl  ns  esg       wsg                         1803000
+es  el  ws  wl  ns  esg       wsg                         1813000
+es  el  ws  wl  ns  esg       wsg                         1823000
+es  el  ws  wl  ns  esg       wsg                         1833000
+es  el  ws  wl  ns  esg       wsg                         1843000
+es  el  ws  wl  ns  esg       wsg                         1853000
+es  el  ws  wl  ns  esg       wsg                         1863000
+es  el  ws  wl  ns  esy       wsy                         1873000
+es  el  ws  wl  ns  esy       wsy                         1883000
+es  el  ws  wl  ns                                        1893000
+es  el  ws  wl  ns  esg  elg                              1903000
+es  el  ws  wl  ns  esg  elg                              1913000
+es  el  ws  wl  ns  esg  elg                              1923000
+es  el  ws  wl  ns  esg  elg                              1933000
+es  el  ws  wl  ns  esg  elg                              1943000
+es  el  ws  wl  ns  esg  elg                              1953000
+es  el  ws  wl  ns  esg  elg                              1963000
+es  el  ws  wl  ns  esg  elg                              1973000
+es  el  ws  wl  ns  esg  elg                              1983000
+es  el  ws  wl  ns  esg  elg                              1993000
+es  el  ws  wl  ns  esy  ely                              2003000
+es  el  ws  wl  ns  esy  ely                              2013000
+es  el  ws  wl  ns                                        2023000
+es  el  ws  wl  ns            wsg  wlg                    2033000
+es  el  ws  wl  ns            wsg  wlg                    2043000
+es  el  ws  wl  ns            wsg  wlg                    2053000
+es  el  ws      ns            wsg  wlg                    2063000
+es  el  ws      ns            wsg  wlg                    2073000
+es  el  ws      ns            wsg  wlg                    2083000
+es  el  ws      ns            wsg  wlg                    2093000
+es  el  ws      ns            wsg  wlg                    2103000
+es  el  ws      ns            wsg  wlg                    2113000
+es  el  ws      ns            wsg  wlg                    2123000
+es  el  ws      ns            wsy  wly                    2133000
+es  el  ws      ns            wsy  wly                    2143000
+es  el  ws      ns                                        2153000
+es  el  ws      ns       elg       wlg                    2163000
+es  el  ws      ns       elg       wlg                    2173000
+es  el  ws      ns       elg       wlg                    2183000
+es  el  ws      ns       elg       wlg                    2193000
+es  el  ws      ns       elg       wlg                    2203000
+es  el  ws      ns       elg       wlg                    2213000
+es  el  ws      ns       elg       wlg                    2223000
+es  el  ws      ns       elg       wlg                    2233000
+es  el  ws      ns       elg       wlg                    2243000
+es  el  ws      ns       elg       wlg                    2253000
+    el  ws               ely       wly                    2263000
+    el  ws               ely       wly                    2273000
+    el  ws                                                2283000
+    el  ws          esg       wsg                         2293000
+    el              esg       wsg                         2303000
+    el              esg       wsg                         2313000
+
+count =           5
